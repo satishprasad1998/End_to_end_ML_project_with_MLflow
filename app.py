@@ -5,8 +5,7 @@ import pandas as pd
 from mlProject.pipeline.prediction import PredictionPipeline
 
 
-application = Flask(__name__) # initializing a flask app
-app=application
+app = Flask(__name__) # initializing a flask app
 
 @app.route('/',methods=['GET'])  # route to display the home page
 def homePage():
