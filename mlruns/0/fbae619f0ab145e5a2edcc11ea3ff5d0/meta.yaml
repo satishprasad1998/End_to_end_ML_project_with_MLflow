@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/end%20to%20end%20ML%20project%20with%20MLflow/End_to_end_ML_project_with_MLflow/mlruns/0/fbae619f0ab145e5a2edcc11ea3ff5d0/artifacts
+end_time: 1692878850206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbae619f0ab145e5a2edcc11ea3ff5d0
+run_name: invincible-fowl-8
+run_uuid: fbae619f0ab145e5a2edcc11ea3ff5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692878844791
+status: 3
+tags: []
+user_id: satis

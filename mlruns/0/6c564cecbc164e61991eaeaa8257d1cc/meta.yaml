@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/end%20to%20end%20ML%20project%20with%20MLflow/End_to_end_ML_project_with_MLflow/mlruns/0/6c564cecbc164e61991eaeaa8257d1cc/artifacts
+end_time: 1692879319955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c564cecbc164e61991eaeaa8257d1cc
+run_name: funny-zebra-696
+run_uuid: 6c564cecbc164e61991eaeaa8257d1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692879314856
+status: 3
+tags: []
+user_id: satis

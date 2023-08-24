@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/end%20to%20end%20ML%20project%20with%20MLflow/End_to_end_ML_project_with_MLflow/mlruns/0/9761bfa17f844c60aa7b50cf5b4d804e/artifacts
+end_time: 1692879217233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9761bfa17f844c60aa7b50cf5b4d804e
+run_name: funny-grub-938
+run_uuid: 9761bfa17f844c60aa7b50cf5b4d804e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692879212416
+status: 3
+tags: []
+user_id: satis
