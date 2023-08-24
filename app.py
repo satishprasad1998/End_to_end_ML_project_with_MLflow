@@ -43,11 +43,11 @@ def index():
             predict = obj.predict(data)
             quality=None
             if predict>=3 and predict<4:
-                 quality="low quality"
+                 quality="low quality wine"
             elif predict>=4 and predict<6:
-                 quality="medium quality"
+                 quality="medium quality wine"
             else:
-                 quality="high quality"
+                 quality="high quality wine"
                  
 
             return render_template('results.html', prediction = str(predict)[1:-1],quality_wine=quality)
