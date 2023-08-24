@@ -163,3 +163,22 @@ MLflow
  - Its Production Grade
  - Trace all of your expriements
  - Logging & tagging your model
+
+
+# AZURE-CICD-Deployment-with-Github-Actions
+
+## Save pass:
+
+Dl4BpvR+SRpsnRZvm36SSFzlxnS9t27A4qm3d0ovd2+ACRDpdhjz
+
+
+## Run from terminal:
+
+docker build -t wineapp.azurecr.io/wine:latest .
+
+docker login wineapp.azurecr.io
+
+docker push wineapp.azurecr.io/wine:latest
+
+
+Running on this website: https://wineapp2.azurewebsites.net
